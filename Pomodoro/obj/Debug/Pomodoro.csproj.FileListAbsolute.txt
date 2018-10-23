@@ -1,0 +1,12 @@
+c:\users\andrzej\source\repos\Pomodoro\Pomodoro\bin\Debug\Sounds\tick.wav
+c:\users\andrzej\source\repos\Pomodoro\Pomodoro\bin\Debug\Pomodoro.exe.config
+c:\users\andrzej\source\repos\Pomodoro\Pomodoro\bin\Debug\Pomodoro.exe
+c:\users\andrzej\source\repos\Pomodoro\Pomodoro\bin\Debug\Pomodoro.pdb
+c:\users\andrzej\source\repos\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csprojAssemblyReference.cache
+c:\users\andrzej\source\repos\Pomodoro\Pomodoro\obj\Debug\Pomodoro.Pomodoro.resources
+c:\users\andrzej\source\repos\Pomodoro\Pomodoro\obj\Debug\Pomodoro.Properties.Resources.resources
+c:\users\andrzej\source\repos\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.GenerateResource.cache
+c:\users\andrzej\source\repos\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.CoreCompileInputs.cache
+c:\users\andrzej\source\repos\Pomodoro\Pomodoro\obj\Debug\Pomodoro.exe
+c:\users\andrzej\source\repos\Pomodoro\Pomodoro\obj\Debug\Pomodoro.pdb
+c:\users\andrzej\source\repos\Pomodoro\Pomodoro\bin\Debug\Sounds\thunder.wav
